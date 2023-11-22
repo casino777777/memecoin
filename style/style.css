@@ -4,10 +4,10 @@ html, body {
   }
 
 body {
-    background-image: url('memecoin_background.jpeg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    margin: 0;
-    height: 100%;
+  background-image: url('../memecoin_background.jpeg'); /* Обратите внимание на изменение этой строки */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0;
+  height: 100%;
 }
